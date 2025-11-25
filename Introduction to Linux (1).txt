@@ -1,0 +1,22 @@
+Linux is an open source operating system which was developed by Linus Benedict Torvalds in 1991.
+-Project name:- GNU Project
+-License name:- GPL(General Public License)
+
+Linux Distributions:-
+-Redhat Enterprise Linux
+-Ubuntu
+-CentOS
+-Kali Linux
+-Backtrack Linux
+-Fedora
+-Suse Linux
+-Mandrack
+-winLinux
+
+Red Hat Certified System Administrator (RHCSA)- 2 papers
+
+Red Hat Certified Engineer (RHCE)- 3 papers
+
+Red Hat System Administration I (RH124) and Red Hat System Administration II (RH134) or RHCSA Rapid Track Course (RH199)
+
+Red Hat System Administration III: Linux Automation with Ansible (RH294)
